@@ -1,3 +1,2 @@
-if a=1
-print a=0
-if a=10
+if a=5
+
