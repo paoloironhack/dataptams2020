@@ -17,18 +17,25 @@ visit the students'branch and provide feedback on their work.
      For example, if your name is 'paolo'
       $ git branch paolo
   3. Switch to your local branch 
+
       $ git checkout branch_name (use your actual branch name)
+
      You will see the name of your branch next to the directory of the repository 
      For example: /Documents/git/dataptams2020 (*paolo*)
   4. You will work almost exclusively on your branch. 
      When you want to push your results to the remote repository, 
      after adding and commiting the relevant files, do
+
      $ git push origin branch_name (use your actual branch name)
+
   5. You can update your branch, for example to view feedback given from the teachers by doing
      (Always from your branch)
+
      $ git pull origin branch_name (use your actual branch name)
+
   5. When new files and labs are posted you can
      receive them by doing, always from your branch,
+
      $ git pull origin master
 
      
