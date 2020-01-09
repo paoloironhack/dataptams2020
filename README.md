@@ -15,7 +15,9 @@ visit the students'branch and provide feedback on their work.
   1. Clone the repository on your local machine
   2. Create a local branch and give it your name
      For example, if your name is 'paolo'
-      $ git branch paolo
+
+         $ git branch paolo
+
   3. Switch to your local branch 
 
          $ git checkout branch_name (use your actual branch name)
