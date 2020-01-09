@@ -11,7 +11,7 @@ labs and excercises will be posted perdiodically by the teaching staff<br/>
 while the students can work on their own branches.<br/>
 The teaching staff will visit the students'branch and provide feedback on their work.
 
-### Steps
+## Steps to setup your branch
 
   1. Clone the repository on your local machine
   2. Install nbstripout as outlined in the important notes below
@@ -28,19 +28,21 @@ The teaching staff will visit the students'branch and provide feedback on their 
 
          For example: /Documents/git/dataptams2020 (paolo)
 
-  5. You will work almost exclusively on your branch. 
+## How to share your work with teaching staff and receive updates on labs and projects
+
+  - *You will work almost exclusively on your branch*. 
      When you want to push your results to the remote repository, 
      after adding and commiting the relevant files, do
 
     	 $ git push origin branch_name (use your actual branch name)
 
-  6. You can update your branch, for example to view feedback 
+   - You can update your branch, for example to view feedback 
       given from the teachers by doing
      (Always from your branch).
 
     	 $ git pull origin branch_name (use your actual branch name)
 
-  7. When new files and labs are posted you can
+   - When new files and labs are posted you can
      receive them by doing, always from your branch,
 
     	 $ git pull origin master
@@ -66,12 +68,6 @@ Read more on https://pypi.python.org/pypi/nbstripout
 
 -We don't want to store data in git. The general strategy will be to download
  the data from our google drive to your local machine
- into the relevant data folder, usually suggested in the lab documentation.
-
-
-
-
-
-
-
+ into the relevant data folder, usually suggested in the lab documentation, and work
+ only locally with the data.
 
