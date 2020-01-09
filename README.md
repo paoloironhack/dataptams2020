@@ -1,13 +1,13 @@
 # Repository dataptams2020
 
-Document/collaborate on analysis using Jupyter notebook or Jupyter lab
+Document/collaborate on analysis using Jupyter Notebook or Jupyter Lab
 
 
 ## General strategy
 
 The goal is to work all together on this repository.<br/> 
-The general strategy to achieve this is to have a main master branch where
-labs and exercises will be posted periodically by the teaching staff
+The general strategy to achieve this is to have a main master branch where labs<br/>
+and exercises will be posted periodically by the teaching staff
 while the students can work on their own branches.<br/>
 The teaching staff will visit the students’ branch and provide feedback on their work.
 
@@ -57,17 +57,17 @@ in command line
 
 ## Important notes
 
--We don't want to store notebook results in github. 
- Therefore, we'll use this tool called *nbstripout* to remove the output of the notebooks before pushing them to github.
- Make sure to install it in the root directory of the repository.
+- We don't want to store notebook results in github. 
+  Therefore, we'll use this tool called *nbstripout* to remove the output of the notebooks before pushing them to github.
+  Make sure to install it in the root directory of the repository.
 
     $ pip install nbstripout nbconvert
     $ nbstripout --install
 
 Read more on https://pypi.python.org/pypi/nbstripout
 
--We don't want to store data in git. The general strategy will be to download
- the data from our google drive to your local machine
- into the relevant data folder, usually suggested in the lab documentation, and work
- only locally with the data.
+- We don't want to store data in git. The general strategy will be to download
+  the data from our google drive to your local machine
+  into the relevant data folder, usually suggested in the lab documentation, and work
+  only locally with the data.
 
