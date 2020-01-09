@@ -14,7 +14,7 @@ The teaching staff will visit the students’ branch and provide feedback on the
 ## Steps to setup your branch
 
   1. Clone the repository on your local machine
-  2. Install nbstripout as outlined in the important notes below
+  2. Install *nbstripout* as outlined in the important notes below
   3. Create a local branch and give it your name.
      For example, if your name is 'paolo'
 
@@ -30,7 +30,7 @@ The teaching staff will visit the students’ branch and provide feedback on the
 
 ## How to share your work with teaching staff and receive updates on labs and projects
 
-  - *You will work almost exclusively on your branch*. 
+  - **You will work almost exclusively on your branch**. 
      When you want to push your results to the remote repository, 
      after adding and committing the relevant files, do
 
