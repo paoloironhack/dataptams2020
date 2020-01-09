@@ -41,7 +41,7 @@ visit the students'branch and provide feedback on their work.
   5. When new files and labs are posted you can
      receive them by doing, always from your branch,
 
-     $ git pull origin master
+    	 $ git pull origin master
 
      
 ## Getting notebooks to run
