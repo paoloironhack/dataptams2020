@@ -52,7 +52,7 @@ The teaching staff will visit the students’ branch and provide feedback on the
 
 Our main tool to perform data analysis and present results is Jupyter Notebook.
 You should be able to start the notebook server by typing *jupyter lab* or *jupyter notebook*
-in command line
+in command line.
 
 
 ## Important notes
