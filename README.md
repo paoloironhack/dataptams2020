@@ -5,11 +5,11 @@ Document/collaborate on analysis using Jupyter notebook or Jupyter lab
 
 ## General strategy
 
-The goal is to work all togheter on this repository.<br/> 
-The general strategy to achieve this is to have a main master branch where<br/>
-labs and excercises will be posted perdiodically by the teaching staff<br/>
+The goal is to work all together on this repository.<br/> 
+The general strategy to achieve this is to have a main master branch where
+labs and exercises will be posted periodically by the teaching staff
 while the students can work on their own branches.<br/>
-The teaching staff will visit the students'branch and provide feedback on their work.
+The teaching staff will visit the students’ branch and provide feedback on their work.
 
 ## Steps to setup your branch
 
@@ -32,7 +32,7 @@ The teaching staff will visit the students'branch and provide feedback on their 
 
   - *You will work almost exclusively on your branch*. 
      When you want to push your results to the remote repository, 
-     after adding and commiting the relevant files, do
+     after adding and committing the relevant files, do
 
     	 $ git push origin branch_name (use your actual branch name)
 
