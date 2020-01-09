@@ -5,13 +5,11 @@ Document/collaborate on analysis using Jupyter notebook or Jupyter lab
 
 ## General strategy
 
-The goal is to work all togheter on this repository.  
-
-The general strategy to achieve this is to have a main master branch where
-
- labs and excercises will be posted perdiodically
-by the teaching staff while the students can work on their own branches. The teaching staff will
-visit the students'branch and provide feedback on their work.
+The goal is to work all togheter on this repository.<br/> 
+The general strategy to achieve this is to have a main master branch where<br/>
+labs and excercises will be posted perdiodically
+by the teaching staff while the students can work on their own branches. 
+The teaching staff will visit the students'branch and provide feedback on their work.
 
 ### Steps
 
