@@ -18,7 +18,7 @@ visit the students'branch and provide feedback on their work.
       $ git branch paolo
   3. Switch to your local branch 
 
-        $ git checkout branch_name (use your actual branch name)
+         $ git checkout branch_name (use your actual branch name)
 
      You will see the name of your branch next to the directory of the repository 
      For example: /Documents/git/dataptams2020 (*paolo*)
