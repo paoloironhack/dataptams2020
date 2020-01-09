@@ -7,8 +7,8 @@ Document/collaborate on analysis using Jupyter notebook or Jupyter lab
 
 The goal is to work all togheter on this repository.<br/> 
 The general strategy to achieve this is to have a main master branch where<br/>
-labs and excercises will be posted perdiodically
-by the teaching staff while the students can work on their own branches. 
+labs and excercises will be posted perdiodically by the teaching staff<br/>
+while the students can work on their own branches.<br/>
 The teaching staff will visit the students'branch and provide feedback on their work.
 
 ### Steps
