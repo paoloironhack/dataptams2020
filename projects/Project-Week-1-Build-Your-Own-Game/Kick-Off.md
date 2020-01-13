@@ -65,18 +65,18 @@ Your mentor is **not** meant to:
 
 **Please note** that the following schedule is simply a guideline. Feel free to organize your work as you see fit.
 
-**Wednesday**
+**Phase 1**
 * Choose the game that you are going to code.
 * Plan your project. Remember that we are providing you with a Trello [template](https://trello.com/b/pc2CNZTo/project-1-build-your-own-game). Remember that you **CAN'T CODE** until your project is planned.
 * Fork the repository and edit the README overview. You can find a [template](https://github.com/ta-data-bcn/Project-Week-1-Build-Your-Own-Game/blob/master/your-project/README.md) for your README file in this repository. Remember to keep the README up-to-date.
 * Once you finish, start coding! Remember to use functions.
 
-**Thursday**
+**Phase 2**
 * Finish the coding and possibly check for bugs in the program (e.g. check what happens if the player gives unexpected inputs to the program).
 * In the evening, start preparing the slides for Friday's presentation.
 
-**Friday**
-* Presentation time at **4PM**! There will be a 15-minute break during the presentations.
+**Phase 3**
+* Presentation time Saturday January 25th at **3PM**! There will be a 15-minute break during the presentations.
 
 ## Presentation
 The presentation time limit is **5 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
