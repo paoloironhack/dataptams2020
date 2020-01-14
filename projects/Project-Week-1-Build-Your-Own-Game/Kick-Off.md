@@ -37,7 +37,6 @@ Please feel free, however, to find a game yourself (subject to teachers' approva
 
 ## Project Goals
 During this project you will:
-* Fork and manage your own git repository.
 * Build your own code from scratch.
 * Put into practice the basic python concepts learned during the week.
 * Get used to public presentations.
