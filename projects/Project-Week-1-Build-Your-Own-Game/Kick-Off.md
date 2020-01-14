@@ -78,7 +78,7 @@ Your mentor is **not** meant to:
 
 **Phase 2**
 * Finish the coding and possibly check for bugs in the program (e.g. check what happens if the player gives unexpected inputs to the program).
-* In the evening, start preparing the slides for Friday's presentation.
+* In the evening, start preparing the slides for Saturday's presentation.
 
 **Phase 3**
 * Presentation time Saturday January 25th at **3PM**! 
