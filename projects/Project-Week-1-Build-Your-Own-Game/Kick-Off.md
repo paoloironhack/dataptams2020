@@ -32,7 +32,7 @@ You must come to an agreement with your colleagues so that each of you develops 
 * [Solitaire](https://www.solitr.com/) 
 * [Minesweeper](http://minesweeperonline.com/) (Victor)
 * [Battleship](http://en.battleship-game.org/)  (Sara)
-* [Snap] (https://en.wikipedia.org/wiki/Snap_(card_game)) (Andrea)
+* [Snap] (Andrea)
 
 Please feel free, however, to find a game yourself (subject to teachers' approval). 
 
