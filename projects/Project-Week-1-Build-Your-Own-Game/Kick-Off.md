@@ -20,24 +20,24 @@ You will also present your game to the class.
 ## Games
 You must come to an agreement with your colleagues so that each of you develops one of the following games:
 
-* [Strong Random Password Generator](https://strongpasswordgenerator.com/)
-* [Guess The Number](https://www.funbrain.com/games/guess-the-number)
-* [Hangman](https://www.coolmathgames.com/0-hangman)
+* [Strong Random Password Generator](https://strongpasswordgenerator.com/) (Pedro)
+* [Guess The Number](https://www.funbrain.com/games/guess-the-number) (Eva)
+* [Hangman](https://www.coolmathgames.com/0-hangman) (Zuzanna)
 * [Message Encryption & Decryption](https://www.base64decode.org/)
-* [Mastermind](https://www.webgamesonline.com/mastermind/)
+* [Mastermind](https://www.webgamesonline.com/mastermind/) (Imogen)
 * [Tic Tac Toe](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome..69i57j0l5.1876j0j4&sourceid=chrome&ie=UTF-8)
 * [Blackjack](https://bicyclecards.com/how-to-play/blackjack/)
 * [Soldier & Dice (Risk)](https://en.wikipedia.org/wiki/Risk_(game)#Attack_and_defense)
-* [Memory](https://www.webgamesonline.com/memory/)
-* [Solitaire](https://www.solitr.com/)
-* [Minesweeper](http://minesweeperonline.com/)
-* [Battleship](http://en.battleship-game.org/)
+* [Memory](https://www.webgamesonline.com/memory/) (Sreelatha)
+* [Solitaire](https://www.solitr.com/) 
+* [Minesweeper](http://minesweeperonline.com/) (Victor)
+* [Battleship](http://en.battleship-game.org/)  (Sara)
+* [Snap] (Andrea)
 
 Please feel free, however, to find a game yourself (subject to teachers' approval). 
 
 ## Project Goals
 During this project you will:
-* Fork and manage your own git repository.
 * Build your own code from scratch.
 * Put into practice the basic python concepts learned during the week.
 * Get used to public presentations.
@@ -79,7 +79,7 @@ Your mentor is **not** meant to:
 
 **Phase 2**
 * Finish the coding and possibly check for bugs in the program (e.g. check what happens if the player gives unexpected inputs to the program).
-* In the evening, start preparing the slides for Friday's presentation.
+* In the evening, start preparing the slides for Saturday's presentation.
 
 **Phase 3**
 * Presentation time Saturday January 25th at **3PM**! 
