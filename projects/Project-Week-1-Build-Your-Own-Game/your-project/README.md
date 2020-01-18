@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Tic Tac Toe
+*[Maaike]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Part-time, Amsterdam 2020]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,30 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+
+I picked Tic Tac Toe for my first project because it is a classic game and it didn't seem too complicated to code. 
+
+Fun fact: according to Wikipedia, games played on three-in-a-row boards can be traced back to ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BCE. An early variation of tic-tac-toe was played in the Roman Empire, around the first century BC. Tic Tac Toe has been around for a long time!
 
 ## Rules
-Briefly describe the rules of the game.
+
+The game is played on a grid that of 3 squares by 3 squares. One player plays with a cross, the other with a circle. Players take turns putting their marks in the empty squares. 
+
+The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+
+When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+I used a Trello board (see link below) to organize my project.
 
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/paoloironhack/dataptams2020/tree/maaike/projects/Project-Week-1-Build-Your-Own-Game/your-project)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/4SNySNPc/tic-tac-toe)  
