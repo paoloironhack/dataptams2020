@@ -14,7 +14,7 @@
 
 ## Project Description
 
-I picked Tic Tac Toe for my first project because it is a classic game and it didn't seem too complicated to code. 
+I picked Tic Tac Toe for my first project because it's a classic game and it didn't seem too complicated to code. 
 
 Fun fact: according to Wikipedia, games played on three-in-a-row boards can be traced back to ancient Egypt, where such game boards have been found on roofing tiles dating from around 1300 BCE. An early variation of tic-tac-toe was played in the Roman Empire, around the first century BC. Tic Tac Toe has been around for a long time!
 
