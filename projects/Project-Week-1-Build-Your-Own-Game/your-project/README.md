@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Tic Tac Toe
-*[Maaike]*
+*Maaike de Jong*
 
-*[Data Analytics Part-time, Amsterdam 2020]*
+*Data Analytics Part-time, Amsterdam 2020*
 
 ## Content
 - [Project Description](#project-description)
