@@ -4,7 +4,9 @@
 
 ## Introduction
 
-In this lab you will practice how to use the MySQL `SELECT` statement which will be extremely useful in your future work as a data analyst/scientist/engineer. **You will use the `publications` database**. You can find it in Ironhack's database. Use your database management application to query `publications`. 
+In this lab you will practice how to use the MySQL `SELECT` statement which will be extremely useful in your future work as a data analyst/scientist/engineer. **You will use the `publications` database**. You can find it in the folder database. Use your database management application to query `publications`. 
+
+### Note: Although working in the command line is an option for this lab we advice instead to use the software MySQL workbench or Sequel Pro that you should have already installed for your prework
 
 You will create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
 

@@ -6,6 +6,8 @@
 
 As a data expert you work at a car dealership company which sells new cars of various brands and models. Your company is small and new but it has branches in several countries. Since the establishment of the company your colleagues have sold several cars to the customers. Now your boss realized your company imperatively needs a database to keep the records about the cars, salespersons, customers, and invoices. Your boss trusts you very much so he assigned you the challenge to design, create, and manage the database.
 
+### Note: Although working in the command line is an option for this lab we advice instead to use the software MySQL workbench or Sequel Pro that you should have already installed for your prework
+
 ## Challenge 1 - Design the Database
 
 Using pen and paper, design a database to meet the minimal requirements of your boss. The minimal information to be recorded is described below:
@@ -28,6 +30,7 @@ Before solving this challenge, review your lesson about database structure and d
 * **What are the relations between these entities? Which relations are one-to-one vs one-to-many vs many-to-many?**
 
 Use pen and paper to create the design, take a picture with your phone and send the image to yourself. If you use software to create the database diagram, export in the image format (JPG or PNG). Either way, the image will be submitted as one of the deliverables.
+Please place your image in our google drive [here](https://drive.google.com/open?id=1E4DAD7lhttI0TS8bgo4HSNLYbCYUHYvB) using the format **your_name_challenge_1**.
 
 ## Challenge 2 - Create the Database and Tables
 
