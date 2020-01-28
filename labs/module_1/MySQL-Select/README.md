@@ -20,7 +20,7 @@ In this challenge you will write a MySQL `SELECT` query that joins various table
 
 Your output will look something like below:
 
-![Challenge 1 output](./images/challenge-1.png)
+![Challenge 1 output](https://drive.google.com/open?id=1w62aof3s7wI-ItuSWtSHnOx2o8EbZmvU)
 
 *Note: the screenshot above is not the complete output.*
 
