@@ -132,23 +132,8 @@ In addition, you also find a duplicated car entry for VIN `DAM41UDN3CHU2WVF6`. Y
 
 ## Submission
 
-1. Upon completion, add the deliverables to git, commit changes, and submit to github. **Make sure you submit to your own forked repo.**
+Upon completion, add the deliverables to git, commit changes, and submit to github. **Make sure you submit to your own branch.**
 
-	```bash
-	cd your-code
-	git add .
-	git commit -m "Lab MySQL solutions"
-	git push origin master
-	```
-
-1. Navigate to your forked repo and create a Pull Request to the class repo.
-	- If you don't remember how to do this, review the lesson in the Prework titled *Git Forking*.
-	- Also your instructor and TA will provide support to you.
-
-1. Create a pull request with title following this format: **`[<lab_name>] <your_name>`**
-  	- For example, if the lab is *lab-mysql* and your name is *Marc Pomar*, your pull request name should be something like **`[lab-mysql] Marc Pomar`**.
-
-1. If you have successfully created the pull request you are done!  CONGRATS :)
 
 ## References
 
