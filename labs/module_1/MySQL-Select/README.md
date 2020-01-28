@@ -20,7 +20,7 @@ In this challenge you will write a MySQL `SELECT` query that joins various table
 
 Your output will look something like below:
 
-![Challenge 1 output](https://drive.google.com/open?id=1w62aof3s7wI-ItuSWtSHnOx2o8EbZmvU)
+[Challenge 1 output](https://drive.google.com/open?id=1w62aof3s7wI-ItuSWtSHnOx2o8EbZmvU)
 
 *Note: the screenshot above is not the complete output.*
 
@@ -30,7 +30,7 @@ If your query is correct, the total rows in your output should be the same as th
 
 Elevating from your solution in Challenge 1, query how many titles each author has published at each publisher. Your output should look something like below:
 
-![Challenge 2 output](./images/challenge-2.png)
+[Challenge 2 output](./images/challenge-2.png)
 
 *Note: the screenshot above is not the complete output.*
 
