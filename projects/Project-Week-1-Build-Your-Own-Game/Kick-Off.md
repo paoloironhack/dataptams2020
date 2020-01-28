@@ -25,7 +25,7 @@ You must come to an agreement with your colleagues so that each of you develops 
 * [Hangman](https://www.coolmathgames.com/0-hangman) (Zuzanna)
 * [Message Encryption & Decryption](https://www.base64decode.org/)
 * [Mastermind](https://www.webgamesonline.com/mastermind/) (Imogen)
-* [Tic Tac Toe](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome..69i57j0l5.1876j0j4&sourceid=chrome&ie=UTF-8)
+* [Tic Tac Toe](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome..69i57j0l5.1876j0j4&sourceid=chrome&ie=UTF-8) (Maaike) 
 * [Blackjack](https://bicyclecards.com/how-to-play/blackjack/)
 * [Soldier & Dice (Risk)](https://en.wikipedia.org/wiki/Risk_(game)#Attack_and_defense)
 * [Memory](https://www.webgamesonline.com/memory/) (Sreelatha)
