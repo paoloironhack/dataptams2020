@@ -1,0 +1,1 @@
+UPDATE `salesperson` SET `store` = 'Miami' WHERE `store` = 'Mimia';
