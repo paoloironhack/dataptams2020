@@ -1,5 +1,5 @@
 
-CREATE DATABASE `lab_mysql`;
+USE lab_mysql;
 
 CREATE TABLE `lab_mysql`.`cars` (
   `car_id` VARCHAR(15) NOT NULL,
