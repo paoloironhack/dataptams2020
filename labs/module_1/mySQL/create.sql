@@ -1,6 +1,6 @@
-
 USE lab_mysql;
-
+drop database lab_mysql;
+create database lab_mysql;
 CREATE TABLE `lab_mysql`.`cars` (
   `car_id` VARCHAR(15) NOT NULL,
   `vin` VARCHAR(17) NOT NULL,
@@ -16,11 +16,11 @@ COMMENT = 'Contains all data about cars in the dealership';
 CREATE TABLE `lab_mysql`.`customers` (
   `customer_id` VARCHAR(15) NOT NULL,
   `name` VARCHAR(30) NOT NULL,
-  `phone_number` CHAR(12) NOT NULL,
+  `phone_number` CHAR(20) NOT NULL,
   `email` VARCHAR(40) NOT NULL,
   `address` VARCHAR(40) NOT NULL,
   `city` VARCHAR(20) NULL,
-   `state` CHAR(2) NULL,
+   `state` CHAR(15) NULL,
    `country` VARCHAR(20) NULL,
    `zip` CHAR(5) NULL,
   PRIMARY KEY (`customer_id`))
