@@ -1,4 +1,5 @@
 
+CREATE DATABASE `lab_mysql`;
 
 CREATE TABLE `lab_mysql`.`cars` (
   `car_id` VARCHAR(15) NOT NULL,
@@ -8,8 +9,7 @@ CREATE TABLE `lab_mysql`.`cars` (
   `year` YEAR(4) NOT NULL,
   `color` VARCHAR(20) NULL,
   PRIMARY KEY (`car_id`))
-COMMENT = `Contains all data about cars in the dealership`;
-
+COMMENT = 'Contains all data about cars in the dealership';
 
 
 
@@ -24,7 +24,7 @@ CREATE TABLE `lab_mysql`.`customers` (
    `country` VARCHAR(20) NULL,
    `zip` CHAR(5) NULL,
   PRIMARY KEY (`customer_id`))
-COMMENT = `Contains all data about customers`;
+COMMENT = 'Contains all data about customers';
 
 
 CREATE TABLE `lab_mysql`.`salespersons` (
@@ -41,6 +41,9 @@ COMMENT = 'Contains all the data of the salespersons';
 CREATE TABLE `lab_mysql`.`invoices` (
   `invoice_number` VARCHAR(10) NOT NULL,
   `date` DATE NOT NULL,
+  `car_id` VARCHAR(15) NOT NULL,
+  `staff_id` VARCHAR(10),
+  `customer_id` VARCHAR(15) NOT NULL,
   PRIMARY KEY (`invoice_number`),
   CONSTRAINT `car_id`
     FOREIGN KEY (`car_id`)
