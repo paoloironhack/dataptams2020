@@ -26,7 +26,7 @@ Once your connection is established with the database you will use some basic SE
 
 ## Deliverables
 
-- `main.ipynb` with your responses to each of the questions above.
+- `main.ipynb` with your responses to each of the questions.
 
 ## Resources
 
