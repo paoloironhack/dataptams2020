@@ -8,14 +8,6 @@ We keep seeing a common phrase that 80% of the work of a data scientist is data 
 
 In this exercise, you will both practice the data cleaning techniques we discussed in the lesson and learn new techniques by looking up documentations and references. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
-## Getting Started
-
-Now you should already be familar with the workflow of solving and submitting the labs. But in case not, review the guidelines in the `README.md` in the [repo root](../..) and [previous lab](../lab-pandas).
-
-In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
-
-When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
-
 ## Goals
 
 Do you remember your MySQL project? In this lab, you will examine some MySQL tables from [here](https://relational.fit.cvut.cz/dataset/Stats). This database contains an anonymized dump of all user-contributed content on the Stats Stack Exchange network.
@@ -31,40 +23,10 @@ Once your connection is established with the database you will use some basic SE
 
 :bulb: If you receive import errors for `pymysql` or `sqlalchemy`, it means you need to install them with `pip`.
 
-### Challenge Questions
-
-1. Connect to the server and collect all the data from users and posts tables.
-
-2. Create a merged dataframe with users and post tables. **Take into account that you will need to do some stuff before merging.**
-
-3. Identify missing values in the merged dataframe and apply some of the methods.
-
-4. Change the data types of your merged dataset accordingly.
-
-5. Bonus Question: Create a dataframe with the outliers you have identified in the dataframe and export it to a csv file in your-code folder. 
-
-**:exclamation: If you feel you are already good at Python/Pandas and don't need the instructions in `main.ipynb` to walk you through, please feel free to skip `main.ipynb` and create your own solution file.**
 
 ## Deliverables
 
 - `main.ipynb` with your responses to each of the questions above.
-
-## Submission
-
-Upon completion, add your deliverables to git. Then commit git, push to your forked repo, and create the pull request as in the previous labs. **REMEMBER
-
-- Upon completion, commit your code and submit to github. **REMEMBER YOU HAVE ALREADY FORKED THE REPO BEFORE**!!
-
-  ```
-  git add .
-  git commit -m "<lab or project name>"
-  git push origin master
-  ```
-
-- Navigate to your repo and [create a Pull Request](https://help.github.com/articles/creating-a-pull-request/).
-- Create a pull request with title following this format: **"[<your_campus>][<bootcamp_code>] [<lab/project_name>]<your_name>"**
-  - For instance, if you are doing data bootcamp in Madrid, your name is Marc Pomar and the lab you are working on is `lab-numpy`, your pull request should be named like this: "[MAD][datamad10108] [lab-numpy] Marc Pomar"
-- If you have successfully created the pull request you are done!  CONGRATS :)
 
 ## Resources
 
