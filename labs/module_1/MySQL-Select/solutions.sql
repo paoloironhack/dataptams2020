@@ -36,14 +36,6 @@ GROUP BY publications.authors_pub_titles.au_id,publications.authors_pub_titles.a
 ORDER BY COUNT(*) DESC
 LIMIT 3;
 
-SELECT titleau.au_id as AUTHOR_ID, auth.au_lname as LAST_NAME, auth.au_fname as FIRST_NAME, SUM(sales.qty) as TOTAL
-FROM publications.titleauthor titleau
-LEFT JOIN publications.authors auth ON titleau.au_ID = auth.au_ID
-LEFT JOIN publications.sales sales ON titleau.title_ID = sales.title_id
-GROUP BY titleau.au_id
-ORDER BY TOTAL DESC
-LIMIT 3;
-
 
 #Challenge 4
 #I did not manage to get this right. I got to a list of 23 authors but cannot show the authors name…
