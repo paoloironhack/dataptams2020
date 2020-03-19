@@ -83,7 +83,6 @@ This will be useful as an overall gauge of whether you met the project goals, bu
 * Short presentation of yourself:
 	* Who are you?
 	* Your favorite thing about this course so far
-  * __Note: we are getting you ready for final presentation!__
 * Introduction
   * Describe the dataset you chose
   * Why did you choose that dataset?
