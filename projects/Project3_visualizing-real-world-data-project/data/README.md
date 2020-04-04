@@ -1,4 +1,4 @@
-The dataset `madrid_10k` contains information of all 34k participants:
+The dataset `madrid_10k` contains information of all 23k participants:
 
 id_number (number): identifier or dorsal number. Unique per participant.
 place (number): overall position of each runner.
