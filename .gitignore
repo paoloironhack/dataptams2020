@@ -7,9 +7,5 @@
 *.docx
 *.ipynb_checkpoints
 *.png
-*.xlsx
-*.xls
-*.xlsm
-*.xltx 
-*.xltm
+
 
