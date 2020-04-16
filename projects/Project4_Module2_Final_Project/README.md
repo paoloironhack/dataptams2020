@@ -73,6 +73,7 @@ The following deliverables should **not** be pushed to your branch but on group 
 * Start importing the data and cleaning it.
 
 *April 25th*
+* Student Pitches!*
 * Start the analysis. Remember all the techniques you have learned!
 
 *April 28th*
