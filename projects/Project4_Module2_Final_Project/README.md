@@ -55,11 +55,8 @@ The following deliverables should **not** be pushed to your branch but on group 
 *April 14th*
 * Project Kick-off.
 
-*April 16th*
-* Have a research question and topic. 
-
 *April 18th*
-* Project one-on-ones. 
+* Have a research question and topic. 
 
 *April 21th*
 * Think about a topic and propose some questions. 
@@ -69,6 +66,7 @@ The following deliverables should **not** be pushed to your branch but on group 
 * **DO NOT START CODING**
 
 *April 23th*
+* Project one-on-ones.
 * By now, you need to have found some data. 
 * Start importing the data and cleaning it.
 
