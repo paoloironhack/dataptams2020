@@ -22,8 +22,8 @@
 # SP - Percentage van de langst mogelijke zonneschijnduur
 # Q - global radiation in J/cm^2
 # DR - duration of precipitation (in 0.1 hours)
-# RH - sum of precipitation for one day (in 0.1 mm) (-1 voor <0.05 mm)
-# RHX - Hoogste uursom van de neerslag (in 0.1 mm) (-1 voor <0.05 mm)
+# RH - sum of precipitation for one day (in mm) (-1 voor <0.5 mm)
+# RHX - Hoogste uursom van de neerslag (in mm) (-1 voor <0.5 mm)
 # RHXH - Uurvak waarin RHX is gemeten
 # PG - Etmaalgemiddelde luchtdruk herleid tot zeeniveau (in 0.1 hPa) berekend uit 24 uurwaarden
 # PX - Hoogste uurwaarde van de luchtdruk herleid tot zeeniveau (in 0.1 hPa)
