@@ -1,118 +1,52 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to the Module 2 Final Project!
-In this project you will build an analysis that is completely up to you!
+# Module 2 Final Project: International Wildlife Trade
+
+Maaike de Jong
+Ironhack Amsterdam
+Data analytics part-time 2020
 
 ## Content
 - [Project Description](#project-description)
-- [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
-- [Schedule](#schedule)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
-- [Resources](#resources)
+- [Project Questions](#project-questions)
+- [Data](#data)
+- [Links](#links)
 
 <a name="project-description"></a>
 
 ## Project Description
-In this project, you will think of a topic, find the data, complete an end-to-end analysis and present the data in multiple ways, all by yourself. First, choose a topic of interest to you and understand what research has already been done in that area. What are some interesting questions that remain? You will then find some data you think could help answer those questions and complete an analysis with relevant visualizations. Last, you will present your findings in a presentation and an **optional** technical paper. 
+In this project I investigate the international wildlife trade, with a focus on the trade in mammals. The wildlife trade - such as trade in ivory, or pets - is the number one cause of animal extinction, together with habitat destruction caused by land development. A recent study estimates that at least 1/5th of all vertebrate species is being traded (see this [article](https://www.bbc.com/news/science-environment-49904668)). 
 
-<a name="project-goals"></a>
+Wildlife trade has many negative effects, with the most important ones being:
+* Decline and extinction of populations
+* Introduction of invasive species
+* Spread of new diseases to humans 
 
-## Project Goals
-* Research and analyse data on a topic of interest to you.
-* Apply the programming and statistical techniques we have learned. 
-* Create useful and easily-interpretable plots.
-* Communicate the results of your analysis clearly, accurately, and engagingly. 
-* Learn to tailor the style of your communication to the audience.
+In this project, I focus on the trade in endangered mammals as listed by CITES, the Convention on International Trade in Endangered Species of Wild Fauna and Flora. In particular, I analyse trade in live mammals taken from the wild. 
+
+<a name="project-questions"></a>
+
+## Project Questions
+The main research questions I will try to answer in this project are:
+* Which wild mammal groups and species are traded the most (in terms of live animals taken from the wild)?
+* What are the main purposes for trade of these animals?
+* How has the trade changed over the past two decades (2000-2018)? 
 
 <a name="requirements"></a>
 
-## Requirements  
-* You must plan your project. That is why creating a Kanban or Trello Board is mandatory. You have a template for Trello [here](https://trello.com/b/YX8EsB2P/project-4-your-own-project).
-* You **CANNNOT CODE** until you project is planned.
+## Data  
+I'm using the [CITES trade database](https://trade.cites.org/) as source for my data. This database contains more than 20 million records of trade and is openly accessible. On the website of the database a selection of data can be made for download. I selected my data with the following parameters: 
+* Year range: 2000-2019
+* Source: W - Wild
+* Exporting countries: All countries
+* Importing countries: All countries
+* Purpose: All purposes
+* Trade Terms: Liv - Live
+* Taxon: Mammalia
 
-## Necessary Deliverables
+I used the resulting dataset for analysis in a jupyter notebook. The dataset can be found [here](https://drive.google.com/drive/folders/1wujpJSR6rC7AMeIm_jfcjtQV3lwDohu9).  
 
-The following deliverables should be pushed to your branch:
-
-- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis. Place the Jupyter notebook in the `your-code` folder.
-- The notebook should be a **self sufficient document**. Someone with no exposure to the problem should be able to read the notebook, understand your analysis and understand where to find the data and how to store the data locally so that the notebooks runs smoothly
-- **An empty data folder** with a readme file inside that explains the data set
-  
-The following deliverables should **not** be pushed to your branch but on group google drive [here](https://drive.google.com/drive/folders/13L-r03B3CncSZrzoiGxvbCRvgwEan0qM?usp=sharing)
-- **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. The link in the notebook can point to the original data set or to our google drive [here](https://drive.google.com/drive/folders/13L-r03B3CncSZrzoiGxvbCRvgwEan0qM?usp=sharing) where you can store the data. Please notice that your personal folders have already been made on the google drive where you can store data and presentations.
-- Slides and a 12 minute presentation [here](https://drive.google.com/drive/folders/13L-r03B3CncSZrzoiGxvbCRvgwEan0qM?usp=sharing)
-- Your workflow + documentation [here](https://drive.google.com/drive/folders/13L-r03B3CncSZrzoiGxvbCRvgwEan0qM?usp=sharing). You need to maintain good practices!
-
-## Optional Deliverables
-* An **optional** short technical paper including your motivation, methodology and results. (Medium Post?) 
-
-<a name="schedule"></a>
-
-## Schedule (Suggested)
-*April 14th*
-* Project Kick-off.
-
-*April 16th*
-* Have a research question and topic. 
-
-*April 18th*
-* Project one-on-ones. 
-
-*April 21th*
-* Think about a topic and propose some questions. 
-* Find data that is relevant to your questions. 
-* Look for documentation to give context to your project.
-* Write the README file in your repository.
-* **DO NOT START CODING**
-
-*April 23th*
-* By now, you need to have found some data. 
-* Start importing the data and cleaning it.
-
-*April 25th*
-* Student Pitches!
-* Start the analysis. Remember all the techniques you have learned!
-
-*April 28th*
-* One-on-ones.
-
-*Day 30th*
-* Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
-
-*May 1st*
-* Finish up and practice your presentation. 
-* 14:00: Presentations! 
-
-<a name="presentation"></a>
-
-## Presentation  
-Presentations will be **EXACTLY** 12 minutes long, with 3 additional minutes for questions. 
-
-<a name="tips-&-tricks"></a>
-
-## Tips & Tricks
-* Organize yourself (don't get lost!).
-* Ask for help but also remember: Google is your friend!
-* Start simple! 
-* Learn about your subject and understand what research has been done already.
-* You *can* use data from the projects your partners did in the last weeks. You can't use your own project.
-* Before making a graph, think about what you want to represent.
-* Use the notebook and markdown to guide the reader through your analysis and tell the story
-* Explain what insight or information is inferred from your visualizations
-* Make extensive use of comments, docstrings and markdown
-
-<a name="resources"></a>
-
-## Resources
-Here are some data sources that could be interesting to you:  
-* [Explore the Google Trends](http://pages.today/trends4)  
-* [Hans Roslings's vizs](http://b.link/ted52)  
-* [See an analysis about heart diseases](http://b.link/kaggle10)  
-* [Your body's data](http://body.media/ted6)
-
-
-
-
+## Links
+[Repository](https://github.com/paoloironhack/dataptams2020/tree/maaike/projects/Project4_Module2_Final_Project)  
+[Slides](https://drive.google.com/drive/folders/1wujpJSR6rC7AMeIm_jfcjtQV3lwDohu9)  
+[Trello](https://trello.com/b/qdD9iGnD/project-4)  
