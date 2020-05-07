@@ -10,6 +10,12 @@ This week you will find some questions here that you will need to answer by docu
 
 Remember for this lab: there is a right answer. But there is no perfect way to explain it (except for in a mathematical way, but this is another story).
 
+## Groups
+
+- Victor/Zuzanna
+- Eva/Sara
+- Sreelatha/Maaike
+
 ## Challenges
 
 ### Challenge 1: What is the difference between expected value and mean?
