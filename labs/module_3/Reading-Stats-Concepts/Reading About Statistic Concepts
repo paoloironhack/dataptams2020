@@ -1,0 +1,9 @@
+## Challenges
+
+### Challenge 1: What is the difference between expected value and mean?
+
+Expected value is defined as the weighted average of the values in the range
+
+is the average value of a random variable over a large number of experiments and it is calculated only for discrete random variables.
+
+Mean is the value value of 
