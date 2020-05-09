@@ -1,7 +1,6 @@
 CREATE DATABASE lab_mysql;
 USE lab_mysql;
-CREATE TABLE salesperson (staff_id VARCHAR(20), name VARCHAR(20), store VARCHAR(20));
-CREATE TABLE customers (customer_id VARCHAR(20), name_customer VARCHAR(20), phone_number_customer VARCHAR(20), email_customer VARCHAR(20), address_customer VARCHAR(20), city_customer VARCHAR(20));
-CREATE TABLE cars (vin VARCHAR(20), manufacturer VARCHAR(20), model VARCHAR(20), year_model CHAR(4), car_color VARCHAR(20));
-CREATE TABLE invoices (invoice_number VARCHAR(20), date DATE, vin VARCHAR(20), customer_id VARCHAR(20), staff_id VARCHAR(20));
-
+CREATE TABLE Salespersons (Staff_ID INT (15), Name VARCHAR(20), Store VARCHAR(20));
+CREATE TABLE Customers (Customer_ID INT(15), Name VARCHAR(20), Phone VARCHAR (20), Email VARCHAR(20), Address VARCHAR (200), City VARCHAR(20), State VARCHAR(20), Country VARCHAR(20), Postal INT(10));
+CREATE TABLE Cars (VIN VARCHAR(20), Manufacturer VARCHAR (20), Model VARCHAR(20), Year INT(4), Color VARCHAR (20));
+CREATE TABLE Invoices (Invoice_no INT(15), Date DATE, Car INT(10), Customer INT(10), Salesperson INT(15))
