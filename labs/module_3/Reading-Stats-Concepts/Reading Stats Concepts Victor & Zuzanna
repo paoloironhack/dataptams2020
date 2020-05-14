@@ -1,0 +1,34 @@
+Victor and Zuzanna 
+
+Challenge 1: What is the difference between expected value and mean?
+
+Expected value involves an average of a random variable. Its calculation also involves probability ("variable multiplied by the probability of that outcome").
+Mean is the average of a distribution.
+
+Challenge 2: What is the "problem" in science with p-values?
+
+The "problem" is that not all non-significant results should be easily dismissed as having no correlation/impact just because of a small p-value obtained. There might be other influences on arriving at the p-value (e.g. precision of the interval size). Often, results that are obtained using slightly different parameters may seem to be in conflict with one another, which may not be the case in reality. 
+
+This issue is connected with a dichotomous approach towards significance of results obtained from research, as the size of p-value is often treated as significant basis to either accept or dismiss the data, for either the current or future research purposes. 
+Because of that, the scientific community might be missing information of significant educational and investigative treshold. 
+
+__________
+
+Challenge 3: Applying testing to a specific case: A/B testing.
+
+Article summaries: 
+> Netflix example 
+ >> Default artwork selection: A/B Testing:
+          . Members in each test cell get a different image for that title. 
+          . Measuring the engagement with the title for each variant — click through rate, aggregate play duration, fraction of plays with short duration, fraction of content viewed (how far did you get through a movie or series), etc. 
+          . Results: positive rise in the audience size  and increased engagement; indication that members are sensitive to artwork changes.
+   >> Multi-cell explore-exploit test: 
+          ."The hypothesis for this test was that we can improve aggregate streaming hours for a large member allocation by selecting the best artwork across each of these titles."
+            . The “explore” test measured engagement of each candidate artwork for a set of titles. 
+            . The “exploit” test served the most engaging artwork (from explore test) for future users and see if we can improve aggregate streaming hours.
+           . Using the explore member population, we measured the take rate (click-through rate) of all artwork variants for each title.
+           . take rate =  number of plays /  number of impressions  
+
+
+
+
