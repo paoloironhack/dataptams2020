@@ -4,10 +4,12 @@ Challenge 1: What is the difference between expected value and mean?
 
 Expected value involves an average of a random variable. Its calculation also involves probability ("variable multiplied by the probability of that outcome").
 Mean is the average of a distribution.
+#Paolo: mean could be the mean of a list of numbers and  in this case has nothing  directly to do with probability. However if you sample a distribution and take the mean of that sample, that value gets closer to the expected value of the original distribution, as the sample gets bigger.
 
 Challenge 2: What is the "problem" in science with p-values?
 
 The "problem" is that not all non-significant results should be easily dismissed as having no correlation/impact just because of a small p-value obtained. There might be other influences on arriving at the p-value (e.g. precision of the interval size). Often, results that are obtained using slightly different parameters may seem to be in conflict with one another, which may not be the case in reality. 
+#Paolo: It should be "just because of a BIG p-value obtained" no?
 
 This issue is connected with a dichotomous approach towards significance of results obtained from research, as the size of p-value is often treated as significant basis to either accept or dismiss the data, for either the current or future research purposes. 
 Because of that, the scientific community might be missing information of significant educational and investigative treshold. 
