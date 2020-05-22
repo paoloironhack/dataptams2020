@@ -16,7 +16,7 @@ In this project you will build an analysis that is completely up to you!
 <a name="project-description"></a>
 
 ## Project Description
-The goal of this topic is simple: have another look at one of your earlier projects and provide that project with an additional predictive analysis. You should have some domain knowledge and a lot of insight into the data and possible trends. Now is the time to extent your analysis with a predictive model. For instance, you may want to predict rain fall? Or stock prices? Maybe you found interesting in your HR data and maybe you'd like to see if you can find hidden patterns using the ML techiques we've discussed this module. Thus, the goal of this project is to use your domain-knowledge and knowledge of (a) given data set(s) to perform a predictive, ML analysis. 
+The goal of this topic is simple: have another look at one of your earlier projects and provide that project with an additional predictive analysis. You should have some domain knowledge and a lot of insight into the data and possible trends. Now is the time to extent your analysis with a predictive model. For instance, you may want to predict rain fall? Or stock prices? Maybe you found interesting in your HR data and maybe you'd like to see if you can find hidden patterns using the ML techniques we've discussed this module. Thus, the goal of this project is to use your domain-knowledge and knowledge of (a) given data set(s) to perform a predictive, ML analysis. 
 
 <a name="project-goals"></a>
 
