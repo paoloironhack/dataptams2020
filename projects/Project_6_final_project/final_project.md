@@ -44,6 +44,7 @@ Remember, however, that data analysis is an iterative process. From time to time
 ### Phase 1 - Brain Storming and Data Preparation
 
 * Idea generation & planning
+* Formulate clear hypotheses / research questions
 * Data gathering & cleaning
 * Data storage
 
@@ -52,41 +53,28 @@ Identify topics of interest, and see if there is available data. Ideally, formul
 ### Phase 2 - Exploratory Data Analysis
 
 * Data exploration
-* Data visualisation
 * Data transformation
-
-Start exploring and getting familiar with the available data. Here you should also acquaint with the data by making visualisations and performing descriptive and inferential statistical tests. 
-
-### Phase 3 - Data Analysis 
-
-ML:
-
-* Feature selection
-* Model training and evaluation
-* Model evaluation
-
-Analysis:
-
-* Formulate clear hypotheses / research questions
+* Data visualisation
 * Test your hypotheses / questions
 * Come up with compelling stories
 
+Start exploring and getting familiar with the available data. Here you should also acquaint with the data by making visualisations and performing descriptive and inferential statistical tests. 
+
+### Phase 3 - Data Analysis and Predictive Modelling
+
+* Feature selection
+* Model training and evaluation
+* Predictive Analysis
 
 ### Phase 4 - Data Analysis on Repeat and Presentation
 
-ML:
-
-* Iterations on your modelling
-* Model evaluation and comparison
-* Prepare for presentation
-
-Analysis:
-
+* Compare and evaluate various models
 * Investigate additional questions
+* Explore new avenues 
+
 * Pick the most interesting findings
 * Create your story
-
-
+* Prepare your presentation
 
 ## Project Instructions
 
@@ -119,20 +107,18 @@ Once you reach this point, ask fellow students, friends or teaching staff for fe
 
 At this point, you should have a clear idea of where you want to go. You should spend the remaining days refining your machine learning models and your presentation. Spend some time to get a deeper understanding of the algorithms or statistical methods you are using and how your work could be improved. Think about how you can best present your project to a broad audience so that they take away what the essence of your project is.
 
-ML:
+As to the predictive part of your project, you might want to:
 
 * Introduce new models and continue iterating on your machine learning models to optimise their performance. 
 * Organise your machine learning steps into a pipeline that performs feature selection/engineering, model training, model evaluation, and model storage.
 * Further refine your presentation based on additional findings and results.
 
-Analysis:
+In general, for your presentation, keep in mind that:
 
 * Create stories around your key points
 * Pick the most suitable visualisations to support your stories
 * Identify easy-to-grasp examples to put your findings in perspective
-* Combine your insights, visualisations and stories into a presentation.  
-
-
+* Combine your insights, visualisations and stories into a presentation 
 
 ## Necessary Deliverables
 
