@@ -139,7 +139,7 @@ Analysis:
 The following deliverables **SHOULD BE** pushed to your Github repo.
 
 * A (or multiple) Jupyter Notebook (.ipynb) file(s) containing all your Python code and/or a (or multiple) Python (.py) files. 
-* Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to video where you show your demo. (Optional)
+* Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to a video where you show your demo. (Optional)
 
 The following deliverables **MAY NOT**  be pushed to your Github repo.
 
