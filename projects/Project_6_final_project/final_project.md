@@ -141,7 +141,7 @@ The following deliverables **SHOULD BE** pushed to your Github repo.
 * A (or multiple) Jupyter Notebook (.ipynb) file(s) containing all your Python code and/or a (or multiple) Python (.py) files. 
 * Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to video where you show your demo. (Optional)
 
-The following deliverables **MAY NOT*  be pushed to your Github repo.
+The following deliverables **MAY NOT**  be pushed to your Github repo.
 
 - **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. 
 - **Presentation Slides** Your final project presentation <br>
