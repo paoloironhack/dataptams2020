@@ -182,7 +182,7 @@ The following deliverables **MAY NOT**  be pushed to your Github repo.
   * Walk the audience through the data set you chose, providing an overview of some of the fields and other information contained in the data.
   * Walk the audience through your process of cleaning, exploring, analyzing, and performing machine learning on your data including what tools and techniques you employed, what avenues you decided to pursue and why, what interesting insights you discovered, and what lessons you learned.
 
-Below are a few videos of the Ironhack Hackshow where our graudates presented their final projects. Take a quick look on how our past students presented their projects.
+Below are a few videos of the Ironhack Hackshow where our graduates presented their final projects. Take a quick look on how our past students presented their projects.
 
 * [Data final project demo](https://www.youtube.com/watch?v=D0vyKvSeCcY)
 * [UX/UI final project demo](https://www.youtube.com/watch?v=oII8I2nl7WM) 
