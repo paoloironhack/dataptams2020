@@ -174,7 +174,7 @@ The following deliverables **MAY NOT**  be pushed to your Github repo.
   * Why should the audience care?
   * What do you want the audience to take away?
   * Tell your story!
-* One technical challenge you faced:
+* Some of the technical challenges you faced:
   * Explain the challenge.
   * Explain how and what you did to overcome it.
   * Show and explain code snippets in your presentation slides.
