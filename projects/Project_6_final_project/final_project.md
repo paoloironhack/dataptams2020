@@ -169,7 +169,6 @@ The following deliverables **MAY NOT**  be pushed to your Github repo.
 
 * Short presentation of yourself:
 	* Who are you?
-  * __Note: we are getting you ready for final presentation!__
 * Elevator pitch:
   * What is it about?
   * Why should the audience care?
@@ -188,7 +187,6 @@ Below are a few videos of the Ironhack Hackshow where our graudates presented th
 * [Data final project demo](https://www.youtube.com/watch?v=D0vyKvSeCcY)
 * [UX/UI final project demo](https://www.youtube.com/watch?v=oII8I2nl7WM) 
 * [Ironhack YouTube Channel](https://www.youtube.com/channel/UCWD3Q1-d9vzxt1cXUmpbjqg/videos) 
-
 
 
 ## 5 Tips for Successful Completion
