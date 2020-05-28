@@ -88,9 +88,6 @@ Analysis:
 
 
 
-
-
-
 ## Project Instructions
 
 ### Phase 1
@@ -139,15 +136,15 @@ Analysis:
 
 ## Necessary Deliverables
 
-The following deliverables should be pushed to your Github repo.
+The following deliverables **SHOULD BE** pushed to your Github repo.
 
 * A (or multiple) Jupyter Notebook (.ipynb) file(s) containing all your Python code and/or a (or multiple) Python (.py) files. 
 * Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to video where you show your demo. (Optional)
-* A data folder containing your original datasets and your clean datasets.
-* Your final project presentation.
+
+The following deliverables **MAY NOT*  be pushed to your Github repo.
 
 - **DATA** Please do not upload any data to the repository but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder. 
-- **Presentation Slides** A presentation of your results on the day of the presentations <br>
+- **Presentation Slides** Your final project presentation <br>
 
 **Please use [this link](https://drive.google.com/drive/folders/1kXL-WvOk4889IaQW0ks_7Djlqmw1xUG-?usp=sharing) where  personal folders have already been made and where you can store data, presentations and any additional documentation** 
 
