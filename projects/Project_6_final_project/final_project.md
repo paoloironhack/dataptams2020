@@ -37,7 +37,7 @@ The goal of this project is to allow you to demonstrate the skills you have buil
 
 The final project is structured into 4 phases and 3 weeks. You will have to come up with a plan for what you are going to do and then design the project around the data set or data sets that you have chosen.
 
-**You will be working individually** However, keep in mind that we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 3 weeks. The suggested phase-wise structure is listed below. Use it as a guideline to keep your work structured but if you feel like you have a working flow, feel free to manage the project however you like.
+**You will be working individually.** However, keep in mind that we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 3 weeks. The suggested phase-wise structure is listed below. Use it as a guideline to keep your work structured but if you feel like you have a working flow, feel free to manage the project however you like.
 
 Remember, however, that data analysis is an iterative process. From time to time, therefore, you may need to step back to a previous phase to revisit the data, your code or your analysis. It is advised that you start with a small and reasonable scope and only gradually increase the scope of your project. 
 
