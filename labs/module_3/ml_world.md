@@ -25,11 +25,11 @@ In particular, we would like you to consider the following:
 
 We will begin on Saturday May 30th with the first presentation. Who would like to do the first one?
 
-* Saturday May 30th: [Student] [Topic] 
+* Saturday May 30th: Victor, Brain AI
 
 We will then have a presentation each session. 
 
-* Tuesday June 2nd: [Student] [Topic] 
+* Tuesday June 2nd: Sreelatha [Topic] 
 * Thursday June 4th: [Student] [Topic] 
 * Saturday June 6th: [Student] [Topic] 
 * Tuesday June 9th: [Student] [Topic] 
@@ -41,7 +41,7 @@ We will then have a presentation each session.
 3. [FB Face recognition](https://gizmodo.com/facebooks-new-face-recognition-features-what-we-do-an-1823359911)
 4. [Google drawing](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
 5. [Trump campaign](https://hackernoon.com/did-donald-trump-use-artificial-intelligence-to-win-the-election-8008c2c0bf59)
-6. [Brain AI](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/)
+6. [Brain AI (Victor)](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/)
 7. [Tay Microsoft racist AI](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 8. [Spotify recommendation model](https://medium.com/@terry.foley555/spotify-algorithms-5f38b6b6db58)
 9. [Malaria spot](https://www.sciencedaily.com/releases/2016/04/160425095546.htm)
