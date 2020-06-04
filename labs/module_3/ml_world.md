@@ -31,7 +31,7 @@ We will then have a presentation each session.
 
 * Tuesday June 2nd: Sreelatha, Spotify recommendation model 
 * Thursday June 4th: Eva, Google Autonomous Car
-* Saturday June 6th: Sara [Topic] 
+* Saturday June 6th: Sara, FB Face recognition
 * Tuesday June 9th: [Student] [Topic] 
 * Thursday June 11th: [Student] [Topic] 
 
