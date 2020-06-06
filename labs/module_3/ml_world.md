@@ -32,14 +32,14 @@ We will then have a presentation each session.
 * Tuesday June 2nd: Sreelatha, Spotify recommendation model 
 * Thursday June 4th: Eva, Google Autonomous Car
 * Saturday June 6th: Sara, FB Face recognition
-* Tuesday June 9th: [Student] [Topic] 
-* Thursday June 11th: [Student] [Topic] 
+* Tuesday June 9th: Maaike, Google Drawing
+* Thursday June 11th: Zuzanna, [Topic] 
 
 ## News 
 1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
 2. [Google Autonomous Car (Eva)](https://www.iflscience.com/technology/google-has-developed-self-driving-car/)
 3. [FB Face recognition (Sara)](https://gizmodo.com/facebooks-new-face-recognition-features-what-we-do-an-1823359911)
-4. [Google drawing](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
+4. [Google drawing (Maaike)](https://www.theverge.com/2017/4/11/15263434/google-ai-autodraw-doodle-bot-drawing-image-recognition)
 5. [Trump campaign](https://hackernoon.com/did-donald-trump-use-artificial-intelligence-to-win-the-election-8008c2c0bf59)
 6. [Brain AI (Victor)](https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/)
 7. [Tay Microsoft racist AI](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
