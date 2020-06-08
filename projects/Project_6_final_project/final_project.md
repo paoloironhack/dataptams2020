@@ -37,13 +37,14 @@ The goal of this project is to allow you to demonstrate the skills you have buil
 
 The final project is structured into 4 phases and 3 weeks. You will have to come up with a plan for what you are going to do and then design the project around the data set or data sets that you have chosen.
 
-**You will be working individually** However, keep in mind that we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 3 weeks. The suggested phase-wise structure is listed below. Use it as a guideline to keep your work structured but if you feel like you have a working flow, feel free to manage the project however you like.
+**You will be working individually.** However, keep in mind that we'll be guiding you along the process and helping you as you go. You will be working on this project over the course of 3 weeks. The suggested phase-wise structure is listed below. Use it as a guideline to keep your work structured but if you feel like you have a working flow, feel free to manage the project however you like.
 
 Remember, however, that data analysis is an iterative process. From time to time, therefore, you may need to step back to a previous phase to revisit the data, your code or your analysis. It is advised that you start with a small and reasonable scope and only gradually increase the scope of your project. 
 
 ### Phase 1 - Brain Storming and Data Preparation
 
 * Idea generation & planning
+* Formulate clear hypotheses / research questions
 * Data gathering & cleaning
 * Data storage
 
@@ -52,41 +53,28 @@ Identify topics of interest, and see if there is available data. Ideally, formul
 ### Phase 2 - Exploratory Data Analysis
 
 * Data exploration
-* Data visualisation
 * Data transformation
-
-Start exploring and getting familiar with the available data. Here you should also acquaint with the data by making visualisations and performing descriptive and inferential statistical tests. 
-
-### Phase 3 - Data Analysis 
-
-ML:
-
-* Feature selection
-* Model training and evaluation
-* Model evaluation
-
-Analysis:
-
-* Formulate clear hypotheses / research questions
+* Data visualisation
 * Test your hypotheses / questions
 * Come up with compelling stories
 
+Start exploring and getting familiar with the available data. Here you should also acquaint with the data by making visualisations and performing descriptive and inferential statistical tests. 
+
+### Phase 3 - Data Analysis and Predictive Modelling
+
+* Feature selection
+* Model training and evaluation
+* Predictive Analysis
 
 ### Phase 4 - Data Analysis on Repeat and Presentation
 
-ML:
-
-* Iterations on your modelling
-* Model evaluation and comparison
-* Prepare for presentation
-
-Analysis:
-
+* Compare and evaluate various models
 * Investigate additional questions
+* Explore new avenues 
+
 * Pick the most interesting findings
 * Create your story
-
-
+* Prepare your presentation
 
 ## Project Instructions
 
@@ -119,27 +107,25 @@ Once you reach this point, ask fellow students, friends or teaching staff for fe
 
 At this point, you should have a clear idea of where you want to go. You should spend the remaining days refining your machine learning models and your presentation. Spend some time to get a deeper understanding of the algorithms or statistical methods you are using and how your work could be improved. Think about how you can best present your project to a broad audience so that they take away what the essence of your project is.
 
-ML:
+As to the predictive part of your project, you might want to:
 
 * Introduce new models and continue iterating on your machine learning models to optimise their performance. 
 * Organise your machine learning steps into a pipeline that performs feature selection/engineering, model training, model evaluation, and model storage.
 * Further refine your presentation based on additional findings and results.
 
-Analysis:
+In general, for your presentation, keep in mind that:
 
 * Create stories around your key points
 * Pick the most suitable visualisations to support your stories
 * Identify easy-to-grasp examples to put your findings in perspective
-* Combine your insights, visualisations and stories into a presentation.  
-
-
+* Combine your insights, visualisations and stories into a presentation 
 
 ## Necessary Deliverables
 
 The following deliverables **SHOULD BE** pushed to your Github repo.
 
 * A (or multiple) Jupyter Notebook (.ipynb) file(s) containing all your Python code and/or a (or multiple) Python (.py) files. 
-* Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to video where you show your demo. (Optional)
+* Database credentials and/or the Tableau credentials. If you want to keep these private, please provide a link to a video where you show your demo. (Optional)
 
 The following deliverables **MAY NOT**  be pushed to your Github repo.
 
@@ -169,13 +155,12 @@ The following deliverables **MAY NOT**  be pushed to your Github repo.
 
 * Short presentation of yourself:
 	* Who are you?
-  * __Note: we are getting you ready for final presentation!__
 * Elevator pitch:
   * What is it about?
   * Why should the audience care?
   * What do you want the audience to take away?
   * Tell your story!
-* One technical challenge you faced:
+* Some of the technical challenges you faced:
   * Explain the challenge.
   * Explain how and what you did to overcome it.
   * Show and explain code snippets in your presentation slides.
@@ -183,12 +168,11 @@ The following deliverables **MAY NOT**  be pushed to your Github repo.
   * Walk the audience through the data set you chose, providing an overview of some of the fields and other information contained in the data.
   * Walk the audience through your process of cleaning, exploring, analyzing, and performing machine learning on your data including what tools and techniques you employed, what avenues you decided to pursue and why, what interesting insights you discovered, and what lessons you learned.
 
-Below are a few videos of the Ironhack Hackshow where our graudates presented their final projects. Take a quick look on how our past students presented their projects.
+Below are a few videos of the Ironhack Hackshow where our graduates presented their final projects. Take a quick look on how our past students presented their projects.
 
 * [Data final project demo](https://www.youtube.com/watch?v=D0vyKvSeCcY)
 * [UX/UI final project demo](https://www.youtube.com/watch?v=oII8I2nl7WM) 
 * [Ironhack YouTube Channel](https://www.youtube.com/channel/UCWD3Q1-d9vzxt1cXUmpbjqg/videos) 
-
 
 
 ## 5 Tips for Successful Completion

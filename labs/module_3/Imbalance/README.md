@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Inbalance between classes
+# Lab | Imbalance between classes
 
 ## Introduction
 
