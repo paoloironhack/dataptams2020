@@ -33,7 +33,7 @@ We will then have a presentation each session.
 * Thursday June 4th: Eva, Google Autonomous Car
 * Saturday June 6th: Sara, FB Face recognition
 * Tuesday June 9th: Maaike, Google Drawing
-* Thursday June 11th: Zuzanna, [Topic] 
+* Thursday June 11th: Zuzanna, Gender Detection using ML
 
 ## News 
 1. [AlphaGO](https://www.blog.google/technology/ai/alphago-machine-learning-game-go/)
